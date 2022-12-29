@@ -5,6 +5,6 @@ class Person:
         self.first_name = first_name
         self.last_name = last_name
         self.age = age
-p1=Person("Shivani","Singh",18)
-p2=Person("Shivani","Singh",18)
+p1=Person("Daksh","Kumar",18)
+p2=Person("Daksh","Kumar",18)
 print(Person.count_instance)
